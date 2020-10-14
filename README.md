@@ -1,1 +1,1 @@
-An algorithm class that utilizes strategy design pattern and composition strategy in C++ to perform various sorting and searching algorithms with a single interface and compare their performance.
+An algorithm class that utilizes strategy design pattern and composition strategy in C++ to perform various sorting (Bubble, Insertion, Merge) and searching algorithms (DFS, BFS, Dijkstra, A*) with a single interface and compare their performance.
